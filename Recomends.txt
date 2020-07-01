@@ -1,0 +1,1 @@
+Recomenda-se utilizar um software para viasualização e gerenciamento de API, como por exemplo Postman ou Insomnia
